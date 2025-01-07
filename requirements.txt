@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
--e .  #it is a indication that there is setup.py file and automatically that package will built
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e .  #it is a indication that there is setup.py file and automatically that package will built

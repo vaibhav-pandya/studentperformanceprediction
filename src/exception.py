@@ -1,5 +1,6 @@
 import sys     #any exception that is getting controlled this sys library will have that information.
 import logging
+from src.logger import logging
 
 def error_message_detail (error, error_detail:sys):
     _,_,exc_tb=error_detail.exc_info() #this function gives you 3 important information, the first two is not interested, the third is exc_tb which contain important info like which file contain error, on which line error occurs.
