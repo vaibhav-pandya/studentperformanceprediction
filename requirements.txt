@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 # -e .  #it is a indication that there is setup.py file and automatically that package will built
