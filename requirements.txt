@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 dill
+flask
 # -e .  #it is a indication that there is setup.py file and automatically that package will built
