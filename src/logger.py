@@ -2,7 +2,8 @@ import logging
 import os
 from datetime import datetime
 
-LOG_FILE=f'{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}.log'
+LOG_FILE = f"{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}.log"
+
 logs_path=os.path.join(os.getcwd(),'logs',LOG_FILE)  #current working directory, filename=logs, and finally file=LOG_FILE
 os.makedirs(logs_path,exist_ok=True)    #exist_ok = True -> even there is a file keep on appending
 

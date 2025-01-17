@@ -12,14 +12,14 @@ app = application
 
 ## Route for a home page
 
-@app.route('/')     
-def index():    #for home page
-    return render_template('index.html')
+# @app.route('/')     
+# def index():    #for home page
+#     return render_template('index.html')
 
-@app.route('/predictdata', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def predict_datapoint(): #for predicting the data
     if request.method=='GET':
-        return render_template('home.html') #having simple input data field
+        return render_template('home.html', results=None) #having simple input data field
     else:
         data=CustomData(
             gender = request.form.get('gender'),
@@ -27,8 +27,8 @@ def predict_datapoint(): #for predicting the data
             parental_level_of_education = request.form.get('parental_level_of_education'),
             lunch = request.form.get('lunch'),
             test_preparation_course = request.form.get('test_preparation_course'),
-            reading_score = float(request.form.get('writing_score')),
-            writing_score = float(request.form.get('reading_score')),
+            reading_score = float(request.form.get('test_score')),
+            writing_score = float(request.form.get('pre_finale_Exam_score')),
         )
         pred_df = data.get_data_as_data_frame()
         print(pred_df)
@@ -39,7 +39,7 @@ def predict_datapoint(): #for predicting the data
     
 
 if __name__=='__main__':
-    app.run(host='0.0.0.0')  #In case of deploying removing debug=True
+    app.run(host='0.0.0.0', debug=True)  #In case of deploying removing debug=True
     
 
 
