@@ -22,7 +22,7 @@ def get_requirements(file_path: str)->List[str]:
 
 
 setup(
-name='MLProject',
+name='studentperformanceprediction',
 version='0.0.1', #my first version
 author='Vaibhav',
 author_email='vaibhavpandya2903@gmail.com',
