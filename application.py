@@ -39,7 +39,7 @@ def predict_datapoint(): #for predicting the data
     
 
 if __name__=='__main__':
-    app.run(host='0.0.0.0', debug=True)  #In case of deploying removing debug=True
+    app.run(host='0.0.0.0')  #In case of deploying removing debug=True
     
 
 
