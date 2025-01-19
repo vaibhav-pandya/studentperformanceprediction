@@ -33,7 +33,7 @@ The dataset used for this project includes:
 - **Study habits**: Study hours, attendance, etc.
 - **Performance metrics**: Test scores, grades, etc.
 
-**Shape**: (1000,8) 
+**Shape**: (1000,8)<br> 
 **Target Variable**: Academic performance (e.g., final grade).
 
 ---
