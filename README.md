@@ -78,3 +78,19 @@ The dataset used for this project includes:
    ```bash
    git clone https://github.com/yourusername/student-performance-prediction.git
    cd student-performance-prediction
+
+---
+
+## Results and Insights
+- Achieved a model accuracy of 96% on the test data.
+- Identified key factors influencing performance:
+   - Parental education level.
+   - Test Performance.
+- Visualized trends in student performance for actionable insights
+
+---
+
+## Future Scope
+- Integrate real-time data for continuous monitoring.
+- Deploy the model as a web app for broader accessibility.
+- Extend the analysis to include psychological factors or extracurricular activities.
