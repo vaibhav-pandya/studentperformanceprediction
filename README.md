@@ -13,8 +13,6 @@ This project aims to predict student performance based on various factors such a
 6. [Installation and Usage](#installation-and-usage)
 7. [Results and Insights](#results-and-insights)
 8. [Future Scope](#future-scope)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ---
 
