@@ -79,7 +79,7 @@ The dataset used for this project includes:
 ---
 
 ## Results and Insights
-- Achieved a model accuracy of X% on the test data.
+- Achieved a model accuracy of 96.68% on the test data.
 - Identified key factors influencing performance:
   - Parental education level.
   - Test Score.
