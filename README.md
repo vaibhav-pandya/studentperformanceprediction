@@ -73,7 +73,7 @@ The dataset used for this project includes:
 ## Installation and Usage
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com//student-performance-prediction](https://github.com/vaibhav-pandya/studentperformanceprediction).git
+   git clone https://github.com/vaibhav-pandya/studentperformanceprediction.git
    cd studentperformanceprediction
 
 ---
