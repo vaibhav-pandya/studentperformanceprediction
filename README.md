@@ -6,18 +6,25 @@ This project aims to predict student performance based on various factors such a
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Problem Statement](#problem-statement)
-3. [Data Description](#data-description)
-4. [Approach](#approach)
-5. [Technologies Used](#technologies-used)
-6. [Installation and Usage](#installation-and-usage)
-7. [Results and Insights](#results-and-insights)
-8. [Future Scope](#future-scope)
+2. [Live Demo](#live-demo)
+3. [Problem Statement](#problem-statement)
+4. [Data Description](#data-description)
+5. [Approach](#approach)
+6. [Technologies Used](#technologies-used)
+7. [Installation and Usage](#installation-and-usage)
+8. [Results and Insights](#results-and-insights)
+9. [Future Scope](#future-scope)
+10. [Contact](#contact)
 
 ---
 
 ## Introduction
 Educational institutions often face challenges in identifying students who are at risk of underperforming. This project leverages machine learning to predict student outcomes based on historical data, enabling educators to intervene early and provide tailored support.
+
+---
+
+### Live Demo
+You can check the live demo of this project [here](https://studentperformanceprediction-uopz.onrender.com/).
 
 ---
 
@@ -91,3 +98,10 @@ The dataset used for this project includes:
 - Integrate real-time data for continuous monitoring.
 - Deploy the model as a web app for broader accessibility.
 - Extend the analysis to include psychological factors or extracurricular activities
+
+--- 
+
+## Contact
+For any queries or feedback, please reach out to -<br>
+Email: vaibhavpandya2903@gmail.com<br>
+[LinkedIn](https://www.linkedin.com/in/vaibhavpandya2903/)
