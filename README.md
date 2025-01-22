@@ -1,5 +1,5 @@
 # Student Performance Prediction 🎓📈
-###### URL: https://studentperformanceprediction-uopz.onrender.com/
+###### Live Demo: https://studentperformanceprediction-uopz.onrender.com/
 
 This project aims to predict student performance based on various factors such as demographics, study habits, and parental background. The goal is to identify key predictors of academic success and provide actionable insights to help students improve their performance.
 
@@ -7,25 +7,19 @@ This project aims to predict student performance based on various factors such a
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Live Demo](#live-demo)
-3. [Problem Statement](#problem-statement)
-4. [Data Description](#data-description)
-5. [Approach](#approach)
-6. [Technologies Used](#technologies-used)
-7. [Installation and Usage](#installation-and-usage)
-8. [Results and Insights](#results-and-insights)
-9. [Future Scope](#future-scope)
-10. [Contact](#contact)
+2. [Problem Statement](#problem-statement)
+3. [Data Description](#data-description)
+4. [Approach](#approach)
+5. [Technologies Used](#technologies-used)
+6. [Installation and Usage](#installation-and-usage)
+7. [Results and Insights](#results-and-insights)
+8. [Future Scope](#future-scope)
+9. [Contact](#contact)
 
 ---
 
 ## Introduction
 Educational institutions often face challenges in identifying students who are at risk of underperforming. This project leverages machine learning to predict student outcomes based on historical data, enabling educators to intervene early and provide tailored support.
-
----
-
-### Live Demo
-You can check the live demo of this project [here](https://studentperformanceprediction-uopz.onrender.com/).
 
 ---
 
